@@ -36,15 +36,27 @@ The system will eventually provide:
 ## Mockup Pages | [Milestone 1](https://github.com/orgs/pacificbytes/projects/1)
 
 ### Landing Page
-![Top Page](image.png)
-![Bottom Page](image-1.png)
+![Top Page](images/image.png)
+![Bottom Page](images/image-1.png)
 ### Admin Dashboard
-![Admin](image-4.png)
+![Admin](images/image-4.png)
 ### Browse Items Page
-![Grid List](image-2.png)
-![List](image-3.png)
+![Grid List](images/image-2.png)
+![List](images/image-3.png)
 ### My Stuff/My Reports
-![Admin](image-5.png)
+![Admin](images/image-5.png)
 
 
 ## Mockup Pages | [Milestone 2](https://github.com/orgs/pacificbytes/projects/2)
+
+### New Landing Page
+![Top Page](images/image-8.png)
+![Bottom Page](images/image-9.png)
+### Browse Items Details
+Submitted Item
+![Submitted Item](images/image-7.png)
+Claiming an Item
+![Claiming Item](images/image-6.png)
+
+### New Item Creation
+![Form](images/image-10.png)
