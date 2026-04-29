@@ -62,7 +62,7 @@ The system will eventually provide:
 ![Admin](images/image-5.png)
 
 
-## Mockup Pages | [Milestone 2](https://github.com/orgs/pacificbytes/projects/2)
+## Mockup Pages 2 | [Milestone 2](https://github.com/orgs/pacificbytes/projects/2)
 
 ### New Landing Page
 ![Top Page](images/image-8.png)
@@ -75,3 +75,9 @@ Claiming an Item
 
 ### New Item Creation
 ![Form](images/image-10.png)
+
+### Standard User Profile
+![Standard User Profile](images/image-11.png)
+
+## Mockup Pages 3 | [Milestone 3](https://github.com/orgs/pacificbytes/projects/4)
+
